@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Machine Learning & Deep Learning Computer Vision & Image Processing Python, TensorFlow, PyTorch Feature Engineering & Model Optimization Data Science Best Practices**
 
-- 📫 How to reach me **Email: maliqmurtaza1@gmail.com LinkedIn: linkedin.com/in/malikmurtaza GitHub: github.com/maliqmurtaza1**
+- 📫 How to reach me **Email: maliqmurtaza1@gmail.com LinkedIn: 
+linkedin.com/in/malikmurtaza 
+GitHub: github.com/maliqmurtaza1**
 
 - ⚡ Fun fact **I love extracting insights from data, but I still struggle to extract myself from endless debugging sessions!**
 
